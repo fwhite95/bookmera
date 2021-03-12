@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "601442762008",
+    "project_id": "bookmera-40331",
+    "storage_bucket": "bookmera-40331.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601442762008:android:f48a4f88e76d6bb7bc726d",
+        "android_client_info": {
+          "package_name": "com.bookmera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601442762008-1umf9l8hh65q4m8f12v8q3jm8hqug3j6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bookmera",
+            "certificate_hash": "73ae9d06e0b330529069b962e9199e7273eab879"
+          }
+        },
+        {
+          "client_id": "601442762008-72jpt0hapv7m66etm6cman2jf3pjnhg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjrwgj7ffbWhy4ZQrBe5xWdl4BbTb821I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601442762008-72jpt0hapv7m66etm6cman2jf3pjnhg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

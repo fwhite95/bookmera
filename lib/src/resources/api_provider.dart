@@ -8,7 +8,7 @@ import '../models/volume_model.dart';
 
 class ApiProvider {
   Client client = Client(); //HTTP
-  final String _apiKey = "AIzaSyBjrwgj7ffbWhy4ZQrBe5xWdl4BbTb821I";
+  final String _apiKey = "API";
 
 //Method for sending get request for volumes at book endpoint
   Future<VolumeModel> getVolumesList(String search) async {
